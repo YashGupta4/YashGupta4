@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashgupta4&label=Profile%20views&color=0e75b6&style=flat" alt="yashgupta4" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashgupta4" alt="yashgupta4" /></a> </p>
-
 - 🔭 I’m currently working on [Facial Recognition System](https://github.com/YashGupta4/Stadium-Management)
 
 - 🌱 I’m currently learning **React Native**
@@ -33,3 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashgupta4&show_icons=true&locale=en" alt="yashgupta4" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashgupta4&" alt="yashgupta4" /></p>
+
