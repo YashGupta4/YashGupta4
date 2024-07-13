@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashgupta4&label=Profile%20views&color=0e75b6&style=flat" alt="yashgupta4" /> </p>
 
-- 🔭 I’m currently working on [Facial Recognition System](https://github.com/YashGupta4/Stadium-Management)
+- 🔭 I’m currently working on [developing new skills]()
 
 - 🌱 I’m currently learning **Data Structures**
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **DSA**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18MdBMjim8z8CHP5omjm2e0kSpNz8LvNc/view?usp=sharing](https://drive.google.com/file/d/18MdBMjim8z8CHP5omjm2e0kSpNz8LvNc/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/18MdBMjim8z8CHP5omjm2e0kSpNz8LvNc/view?usp=sharing](https://drive.google.com/file/d/18MdBMjim8z8CHP5omjm2e0kSpNz8LvNc/view?usp=sharin)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
