@@ -13,11 +13,11 @@
 
 - 💬 Ask me about **DSA**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18MdBMjim8z8CHP5omjm2e0kSpNz8LvNc/view?usp=sharing](https://drive.google.com/file/d/18MdBMjim8z8CHP5omjm2e0kSpNz8LvNc/view?usp=sharin)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1MnWo-AwHf3Zb2r95DUgBs6j-npd-JnTT/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yash-gupta758/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-gupta758/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/info-yash-gupta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-gupta758/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/yashgupta758" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/yashgupta758" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/yashgupta33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/yashgupta33" height="30" width="40" /></a>
 </p>
