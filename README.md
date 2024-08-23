@@ -95,7 +95,7 @@
     <ul>
       <li>Integrated GPS and facial recognition through advanced machine learning to tackle inefficiencies and vulnerabilities in traditional attendance methods.</li>
       <li>Engineered a highly accurate and efficient system boosting data reliability and user experience.</li>
-      <li><b>Skills:</b> Python, Machine Learning, Computer Vision, Data Analysis, Geofencing/GPS Integration</li>
+      <li><b>Skills:</b> Python, Machine Learning, Computer Vision, Data Analysis, Geofencing/GPS Integration,Flask</li>
       <li><a href="https://github.com/YashGupta4/Geo-Fencing">Source Code</a></li>
     </ul>
   </li>
