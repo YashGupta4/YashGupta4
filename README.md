@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Data Structures**
 - 👯 I’m looking to collaborate on **Computer Vision**
 - 💬 Ask me about **DSA**
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1MnWo-AwHf3Zb2r95DUgBs6j-npd-JnTT/view)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1zbF-cXjPI6CBc5LBOYpQQpWyCvUBMLZ3/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
